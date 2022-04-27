@@ -9,7 +9,7 @@
 The purpose of this analysis is to present a business proposal for a bike sharing company. 
 
 ## Tableau Story
-[Link to Story](https://public.tableau.com/views/Bikesharing_16510857828900/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Story](https://public.tableau.com/views/BikeSharingStory_16510894368160/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 ### Duration by age
